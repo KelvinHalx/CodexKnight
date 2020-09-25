@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Kelvin Ndungu Wainaina
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Bsc. Computer Science (Student)
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Laikipia University
+  url: "https://www.laikipia.ac.ke/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Web Design and Development,Android  Development and Machine Learning.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Android Development (Kotlin)
+- Web Development (Flask and Django)
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Bsc in Computer Science
+    institution: Laikipia  University
+    year: 2018 - to date
+  - course: Kenya Certificate of Secondary Education
+    institution: Baari Secondary School
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +41,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:kelvinwainaina@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/Kelvin_Halx
+- #icon: google-scholar
+  #icon_pack: ai
+  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/KelvinHalx
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "kelvinwainaina03@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +67,11 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Kelvin Ndungu Wainaina is a student of Computer Science at Laikipia University.
+His research interests include Machine Learning Web Development and Android Development.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+A mentor in Laikipia University in the  Developer Student Clubs (DSC) Laikipia University Chapter. 
+The goal of DSC globally is to help students bridge the gap between theory and practice.
+The chapter was introduced in 2019 and we did a great work in bringing in students.
+The focus on fostering collaboration among developers or aspiring developers and non-developers.
+
