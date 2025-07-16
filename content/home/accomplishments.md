@@ -19,34 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "CISCO NETWORKING"
-  organization_url = "https://www.netacad.com/"
-  title = "ITE Essentials"
+  organization = "Laikipia University"
+  organization_url = "https://www.laikipia.ac.ke/"
+  title = "Bachelor of Science in Computer Science"
   url = ""
-  certificate_url = "https://www.netacad.com/"
-  date_start = "2018-10-17"
-  date_end = "2019-1-15"
-  description = "Introduction to IT Essentials: PC Hardware and Software  "
-
-[[item]]
-  organization = "CISCO NETWORKING"
-  organization_url = "https://www.netcad.com/"
-  title = "Blockchain Fundamentals"
-  url = "https://www.netacad.com/courses/programming/pcap-programming-essentials-python"
-  certificate_url = "https:https://www.netacad.com/courses/programming/pcap-programming-essentials-python"
-  date_start = "2019-03-01"
-  date_end = ""
-  description = "Design a web or desktop application in Python."
-  
-[[item]]
-  organization = "Udemy"
-  organization_url = "https://www.udemy.com/"
-  title = "Java Script Basics"
-  url = "https://www.udemy.com/course/javascript-basics-start-coding-in-5-minutes-2019/"
   certificate_url = ""
-  date_start = "2019-07-01"
-  date_end = "2019-12-18"
-  description = "Learn Basic Java Skill sets."
+  date_start = "2018-09-01"
+  date_end = "2022-12-01"
+  description = "Majored in Software Development with focus on Data Structures and Algorithms, Object Oriented Programming, System Analysis and Design, Web Design and Development, Internet of Things, Principles of Software Engineering, Artificial Intelligence, and Database Design."
 
+[[item]]
+  organization = "Professional Development"
+  organization_url = ""
+  title = "Full Stack Development Expertise"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-01-01"
+  date_end = ""
+  description = "Specialized in Python (Django, Flask) and JavaScript (React, TypeScript, Vue, Angular) for building scalable web applications and APIs."
+
+[[item]]
+  organization = "Technical Leadership"
+  organization_url = ""
+  title = "Digital Platform Management"
+  url = ""
+  certificate_url = ""
+  date_start = "2022-06-01"
+  date_end = ""
+  description = "Leading digital platform management, tech training, and cybersecurity initiatives at The Newberry Institute."
 
 +++

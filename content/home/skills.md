@@ -15,37 +15,39 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "terminal"
-  icon_pack = "fas"
-  name = "Terminal"
-  description = "70%"
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "75%"
+  description = "Django, Flask"
+  
+[[feature]]
+  icon = "js-square"
+  icon_pack = "fab"
+  name = "JavaScript"
+  description = "React, TypeScript, Vue, Angular"  
+  
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Database"
+  description = "PostgreSQL, MySQL"
 
-# Uncomment to use emoji icons.
-# [[feature]]
-#  icon = ":smile:"
-#  icon_pack = "emoji"
-#  name = "Emojiness"
-#  description = "100%"  
+[[feature]]
+  icon = "mobile-alt"
+  icon_pack = "fas"
+  name = "Mobile Development"
+  description = "Flutter, Android"
 
-# Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-# [[feature]]
-#  icon = "your-custom-icon-name"
-#  icon_pack = "custom"
-#  name = "Surfing"
-#  description = "90%"
+[[feature]]
+  icon = "cloud"
+  icon_pack = "fas"
+  name = "API Development"
+  description = "RESTful APIs, Integration"
+
+[[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "Full Stack"
+  description = "End-to-end Development"
 
 +++

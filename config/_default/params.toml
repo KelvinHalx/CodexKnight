@@ -89,11 +89,11 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "kelvinwainaina03@gmail.com"
-phone = "(+254) 724 829 888"
+phone = "(254) 724-829-888"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {city = "Nairobi", postcode = "2246-20300", country = "Kenya", country_code = "KE"}
+address = {city = "Nyahururu", postcode = "2246-20300", country = "Kenya", country_code = "KE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -104,16 +104,16 @@ address = {city = "Nairobi", postcode = "2246-20300", country = "Kenya", country
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday-Friday 08:00 to 18:00", "Saturday 09:00 to 16:00", "Sunday and Public Holidays-Closed"]
+office_hours = ["Monday-Friday 09:00 to 17:00", "Available for remote consultations"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com/kelvinwainaina"
+appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "Tweet Me", link = "https://twitter.com/Kelvin_Halx"},
-  {icon = "facebook", icon_pack = "fab", name = "FaceBook ", link = "https://web.facebook.com/kelvinhalx"},
+  {icon = "github", icon_pack = "fab", name = "GitHub", link = "https://github.com/KelvinHalx"},
+  {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://linkedin.com/in/kelvinhalx"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   #{icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
@@ -127,7 +127,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "Kelvin_Halx"
+twitter = ""
 
 ############################
 ## Regional Settings
